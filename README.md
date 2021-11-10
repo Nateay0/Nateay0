@@ -16,7 +16,10 @@ Hello, I am a Photgrapher and a Gamer. I like to learn how to code sometimes! :D
   
 -------------------
   
-![Natesplanet github stats](https://github-readme-stats.vercel.app/api?username=Natesplanet&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Nate's github stats](https://github-readme-stats.vercel.app/api?username=Natesplanet&show_icons=true&theme=tokyonight)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natesplanet&show_icons=true&hide_border=true" />
 
 ![Natesplanet github streak](https://github-readme-streak-stats.herokuapp.com/?user=Natesplanet&theme=radical&include_all_commits=true&count_private=true)
 
