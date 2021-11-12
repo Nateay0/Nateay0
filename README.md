@@ -8,6 +8,13 @@ Hello, I am a Photgrapher and a Gamer. I like to learn how to code sometimes! :D
 ## Contact
 <a href="https://www.instagram.com/Natesplanet/">![Instagram](https://img.shields.io/badge/Natesplanet-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/Natesplanet">![Twitter](https://img.shields.io/badge/Natesplanet-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/S4kqaUmQtP">![DiscordServer](https://img.shields.io/discord/755417007016509450?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/Natesplanet%233285-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/ixwhkqivdckh8lng89khv2wit)
 
 -------------------
 
