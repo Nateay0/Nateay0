@@ -7,7 +7,7 @@ Hello, I am a Photgrapher and a Gamer. I like to learn how to code sometimes! :D
 
 ## Contact
 <a href="https://www.instagram.com/Natesplanet/">![Instagram](https://img.shields.io/badge/Natesplanet-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/Natesplanet">![Twitter](https://img.shields.io/badge/Natesplanet-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/S4kqaUmQtP">![DiscordServer](https://img.shields.io/discord/755417007016509450?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/Natesplanet%233285-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+</a> ![Discord](https://discord.c99.nl/widget/theme-1/734918355303006299.png)
 
 
 ### Languages and Tools  
