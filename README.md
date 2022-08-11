@@ -20,7 +20,7 @@ Hello, I am a Photgrapher and a Gamer. I like to learn how to code sometimes! :D
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nateay0&show_icons=true&hide_border=true" />
 
-![Natesplanet github streak](https://github-readme-streak-stats.herokuapp.com/?user=Natesplanet&theme=radical&include_all_commits=true&count_private=true)
+![Natesplanet github streak](https://github-readme-streak-stats.herokuapp.com/?user=Nateay0&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
