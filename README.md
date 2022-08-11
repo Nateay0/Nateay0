@@ -25,4 +25,4 @@ Hello, I am a Photgrapher and a Gamer. I like to learn how to code sometimes! :D
  <div>
 
 -----
-Credits: [Natesplanet](https://github.com/natesplanet)
+Credits: [Natesplanet](https://github.com/Nateay0)
