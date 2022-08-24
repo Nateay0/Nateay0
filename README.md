@@ -1,6 +1,6 @@
 <div align="center">
   
-## About Nathan K
+## About Nathan
 Hello, I am a Photgrapher and a Gamer. I like to learn how to code sometimes! :D
 
 -------------------
